@@ -56,14 +56,14 @@ The project uses a **Random Forest Classifier** trained on real-world road safet
 
 ## 📂 Project Structure
 
-│── main.py # Flask application
-│── mlmodel.py # ML model training and evaluation
-│── mlp.sav # Saved trained model
-│── templates/
-│ ├── index.html
-│ ├── result.html
-│ ├── statistics.html
-│── DataSets/
-│ ├── Accident Dataset
-│ ├── Casualties Dataset
-│ ├── Vehicles Dataset
+│── main.py # Flask application  
+│── mlmodel.py # ML model training and evaluation  
+│── mlp.sav # Saved trained model  
+│── templates/  
+│ ├── index.html  
+│ ├── result.html  
+│ ├── statistics.html  
+│── DataSets/  
+│ ├── Accident Dataset  
+│ ├── Casualties Dataset  
+│ ├── Vehicles Dataset  
